@@ -33,5 +33,5 @@ pip install streamlit
 ## Usage
 Run
 ```console
-streamlir run app.py
+streamlit run app.py
 ```
